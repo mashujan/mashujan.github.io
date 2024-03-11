@@ -3,3 +3,6 @@ body {
   line-height: 1;
   word-spacing: -2px;
 }
+td {
+  text-align: center;
+}
