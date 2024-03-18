@@ -1,8 +1,18 @@
 body {
+  font-family: times;
   background-color: white;
-  line-height: 1;
-  word-spacing: -2px;
+  line-height: 110%;
+  word-spacing: 0px;
 }
+
 td {
   text-align: center;
+}
+
+table, tr, td {
+  border: 2px solid-black;
+  border-collapse: collapse;
+}
+tr, td {
+  background-color:;
 }
